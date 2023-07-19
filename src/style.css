@@ -1,4 +1,4 @@
-@mixin mobile {
+/* @mixin mobile {
   @media screen and (max-width: 480px) {
     @content;
   }
@@ -12,7 +12,7 @@
   @media screen and (max-width: 1200px) {
     @content;
   }
-}
+} */
 
 .formContainer {
   background-color: #a7bcff;
